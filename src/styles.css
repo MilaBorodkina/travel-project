@@ -68,13 +68,14 @@ header a {
 footer {
   color: white;
   background-image: linear-gradient(
-      rgba(59, 102, 86, 0.9),
-      rgba(59, 102, 86, 0.9)
+      rgba(59, 102, 86, 0.8),
+      rgba(59, 102, 86, 0.8)
     ),
-    url("../images/lisbon-footer.png");
+    url("../images/prague-footer.jpg");
 
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   padding: 100px 0;
 }
 
